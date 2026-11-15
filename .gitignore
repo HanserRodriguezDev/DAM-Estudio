@@ -1,0 +1,34 @@
+# C# / .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Java
+**/target/
+*.class
+
+# IntelliJ / PyCharm
+.idea/
+*.iml
+
+# Eclipse
+.metadata/
+
+# NetBeans
+**/nbproject/private/
+**/build/
+**/dist/
+
+# Archivos temporales
+*.tmp
+*.log
+Thumbs.db
+.DS_Store

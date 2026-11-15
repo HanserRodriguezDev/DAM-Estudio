@@ -1,2 +1,2 @@
 # DAM-Estudio
-Mis proyectos y practicas mientras curso DAM
+Mis proyectos y practicas mientras curso DAM.
